@@ -13,7 +13,7 @@ This system provides backend infrastructure for a Takeaway food delivery service
 - Observability and tracing
 - Fault tolerance and resilience
 
-![cloud-structure](https://github.com/user-attachments/assets/f66d0b5b-88ea-44f1-b58f-9b51d29b3917)
+![diagram-export-5-15-2025-10_01_38-PM](https://github.com/user-attachments/assets/8f1875cd-ae41-4ca2-8b73-8ba56e5e4ebf)
 
 ---
 
