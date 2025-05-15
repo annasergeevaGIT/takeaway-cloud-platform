@@ -1,14 +1,14 @@
 # Takeaway Cloud Platform
 
 A **reactive**, **microservice-based** food delivery backend built with Spring Cloud, Kafka, Redis, and Docker. Designed to manage food orders, user authentication, menu items, and reviews in a scalable, fault-tolerant, and cloud-native environment.
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,docker&theme=light" />
   </a>
 </p>
 ---
 
-### 🌐 Overview
+### Overview
 
 This system provides backend infrastructure for a Takeaway food delivery service using microservices architecture & supports:
 
