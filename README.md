@@ -6,7 +6,6 @@ A **reactive**, **microservice-based** food delivery backend built with Spring C
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,docker&theme=light" />
   </a>
 </p>
----
 
 ### Overview
 
