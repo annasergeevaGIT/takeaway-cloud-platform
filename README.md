@@ -6,7 +6,7 @@ A **reactive**, **microservice-based** food delivery backend built with Spring C
 
 ### 🌐 Overview
 
-This system provides backend infrastructure for a Takeaway food delivery service using microservices architecture. It supports:
+This system provides backend infrastructure for a Takeaway food delivery service using microservices architecture & supports:
 
 - Horizontal scalability
 - Decentralized configuration
